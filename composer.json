@@ -1,0 +1,25 @@
+{
+    "name": "alexbrin/telegram-notification",
+    "description": "Telegram notifications for Laravel 8",
+    "keywords": [
+        "telegram",
+        "laravel",
+        "notification"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Gorenkov",
+            "email": "g.a.androidjc2@ya.ru"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TelegramNotification\\": "src/"
+        }
+    }
+}
