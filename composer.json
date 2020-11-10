@@ -1,6 +1,7 @@
 {
     "name": "alexbrin/telegram-notification",
     "description": "Telegram notifications for Laravel 8",
+    "version": "0.1.0",
     "keywords": [
         "telegram",
         "laravel",
